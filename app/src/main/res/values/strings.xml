@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Challenge 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_info">My info</string>
+    <string name="anthony_obaze">Anthony Obaze</string>
+    <string name="name">Name</string>
+    <string name="_233553670802">+233553670802</string>
+    <string name="phone_number">Phone number</string>
+    <string name="toneyobaze_gmail_com">toneyobaze@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="ghana">Ghana</string>
+    <string name="track">Track</string>
+    <string name="android">Android</string>
+</resources>
